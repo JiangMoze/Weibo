@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Weibo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.moze.war">
+      <element id="artifact" artifact-name="Weibo:war exploded" />
+    </root>
+  </artifact>
+</component>
